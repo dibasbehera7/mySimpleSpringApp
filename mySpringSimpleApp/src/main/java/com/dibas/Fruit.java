@@ -1,4 +1,4 @@
-package fooddemo;
+package com.dibas;
 
 public class Fruit {
 	
